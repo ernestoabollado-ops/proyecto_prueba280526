@@ -3,3 +3,4 @@ CREATE TABLE usuarios (
     nombre VARCHAR(50) NOT NULL,
     email VARCHAR(50) UNIQUE
 );
+-- Versión inicial de la estructura
